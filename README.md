@@ -14,7 +14,8 @@ Some tools, e.g. extract frames from video, are available.
 TODO
 - [x] add a Cascade Mask R-CNN training sample
 - [ ] add a demo to how to use existing model
-- [ ] add sample results here
-- [ ] add sample output video here
+- [x] add sample results here
+- [x] add sample output video here
 
-!Result(https://www.bilibili.com/video/BV19k4y117gb)
+## Result
+Result(https://www.bilibili.com/video/BV19k4y117gb)
