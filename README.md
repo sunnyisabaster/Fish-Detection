@@ -17,5 +17,5 @@ TODO
 - [x] add sample results here
 - [x] add sample output video here
 
-## Result
+## Result Sample
 https://www.bilibili.com/video/BV19k4y117gb
