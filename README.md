@@ -18,4 +18,4 @@ TODO
 - [x] add sample output video here
 
 ## Result
-Result(https://www.bilibili.com/video/BV19k4y117gb)
+https://www.bilibili.com/video/BV19k4y117gb
